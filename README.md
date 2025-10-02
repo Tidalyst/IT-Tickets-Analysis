@@ -1,4 +1,4 @@
-# IT-Help_Desk-Analysis
+# IT Help Desk Analysis
 
 ## Project Overview 
 
@@ -20,7 +20,7 @@ The dataset was sourced from the **FP20 IT Help Desk Analysis Challenge 8**. It 
 
 • **IT Agents:** 50 records with 6 fields. 
 
-🔗 [Link to dataset](https://fp20analytics.com/datasets/)
+[Link to dataset](https://fp20analytics.com/datasets/)
 
 
 
@@ -56,7 +56,7 @@ The dataset was sourced from the **FP20 IT Help Desk Analysis Challenge 8**. It 
 
 ## Tools & Methodology
 
-## Tools Used:
+_**Tools Used**_:
 
 • Power Query for data cleaning, transformation, and preparation.
 
@@ -66,7 +66,7 @@ The dataset was sourced from the **FP20 IT Help Desk Analysis Challenge 8**. It 
 
 • Data modeling in Power BI to optimize performance and maintain relational integrity.
 
-## Methodology:
+_**Methodology**_:
 
 ## Data Cleaning and Preparation:
 
@@ -77,6 +77,11 @@ The dataset was sourced from the **FP20 IT Help Desk Analysis Challenge 8**. It 
 • Split the Severity field into two columns: Severity and Severity Category.
 
 • Split the Priority field into two columns: Priority and Priority Category.
+
+<img width="241" height="335" alt="Screenshot 2025-10-02 1633034" src="https://github.com/user-attachments/assets/ab0b0e38-a24d-4cd7-9fb3-2a7591056c7b" />
+<img width="479" height="337" alt="Screenshot 2025-10-02 163410" src="https://github.com/user-attachments/assets/ea59eb91-a182-4144-b776-ef81f8fd3a9a" />
+
+
 
 ## Exploratory Analysis:
 
@@ -118,7 +123,19 @@ The dataset was sourced from the **FP20 IT Help Desk Analysis Challenge 8**. It 
 
 ## Dashboard 
 
+## Overview Page 
 
+<img width="669" height="392" alt="Ticket First Page" src="https://github.com/user-attachments/assets/7774962c-66f7-41a5-afae-53a31b367c49" />
+
+## Details Page 
+
+<img width="676" height="390" alt="Ticket Second Page" src="https://github.com/user-attachments/assets/468d9231-19f6-4135-aab4-efe8adfec748" />
+
+## Agent Profile Page
+
+<img width="674" height="399" alt="Ticket Third Page" src="https://github.com/user-attachments/assets/a95c623f-1dff-4b20-ad53-f70c805a5e3c" />
+
+[Interact with Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTg1MDY2MDktMTE5Mi00NGFlLTgyM2ItNzU0MDE2YmY4OTU3IiwidCI6ImMzMTIwMjdlLTFmYWUtNDIwYi04NGI4LTJjOTBjOTFmNGI5YyJ9)
 
 
 
