@@ -79,10 +79,13 @@ _**Methodology**_:
 • Split the Priority field into two columns: Priority and Priority Category.
 
 
+
+
 <img width="241" height="335" alt="Screenshot 2025-10-02 1633034" src="https://github.com/user-attachments/assets/ab0b0e38-a24d-4cd7-9fb3-2a7591056c7b" />
 
 
 <img width="479" height="337" alt="Screenshot 2025-10-02 163410" src="https://github.com/user-attachments/assets/ea59eb91-a182-4144-b776-ef81f8fd3a9a" />
+
 
 
 **Exploratory Analysis**
@@ -94,6 +97,8 @@ _**Methodology**_:
 • Evaluated Agent Performance based on workload and resolution speed.
 
 • Designed an SLA Compliance Benchmark to measure tickets resolved within defined service targets. 
+
+
 
 
 <img width="2172" height="1394" alt="SLA DAX Measure" src="https://github.com/user-attachments/assets/57a217f4-555b-488b-8d33-d5ffd317794c" />
