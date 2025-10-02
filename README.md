@@ -11,8 +11,8 @@ The IT Department faces challenges such as uneven ticket inflow, recurring reque
 # Data Source: 
 The dataset was sourced from the **FP20 IT Help Desk Analysis Challenge 8**. It is provided in a workbook containing two sheets:
 
-**Tickets:** 97,498 records with 10 fields
-**IT Agents:** 50 records with 6 fields
+• **Tickets:** 97,498 records with 10 fields.
+• **IT Agents:** 50 records with 6 fields. 
 
 🔗 [Link to dataset](https://fp20analytics.com/datasets/)
 
