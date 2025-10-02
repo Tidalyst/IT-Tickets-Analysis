@@ -68,7 +68,7 @@ _**Tools Used**_:
 
 _**Methodology**_:
 
-## Data Cleaning and Preparation:
+**Data Cleaning and Preparation**
 
 • Assigned correct data types to all fields.
 
@@ -83,7 +83,7 @@ _**Methodology**_:
 
 <img width="479" height="337" alt="Screenshot 2025-10-02 163410" src="https://github.com/user-attachments/assets/ea59eb91-a182-4144-b776-ef81f8fd3a9a" />
 
-## Exploratory Analysis:
+**Exploratory Analysis**
 
 • Analyzed ticket inflow by days to identify workload distribution.
 
@@ -93,7 +93,7 @@ _**Methodology**_:
 
 • Designed an SLA Compliance Benchmark to measure tickets resolved within defined service targets. 
 
-## Visualization (Power BI):
+**Visualization (Power BI)**
 
 • Developed interactive dashboards with filters for category, issue type, and agent.
 
