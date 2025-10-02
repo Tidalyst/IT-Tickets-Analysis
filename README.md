@@ -4,8 +4,10 @@
 The IT Department, responsible for managing internal support requests, aims to improve service delivery by strengthening how tickets are monitored and resolved. This project analyzes IT ticket data to uncover workload patterns across days, identify recurring issue types, evaluate SLA compliance, and assess agent efficiency. The findings provide actionable insights to optimize resource allocation, improve accountability, and enhance end-user satisfaction.
 
 
+
 ## Project Statement
 The IT Department faces challenges such as uneven ticket inflow, recurring request backlogs, and inconsistent SLA compliance. Some agents are overburdened while others handle fewer tickets, creating inefficiencies and delays in resolution. Without a structured framework for analyzing support tickets, management lacks the visibility needed to optimize performance, ensure SLA adherence, and deliver timely, reliable IT support.
+
 
 
 # Data Source: 
@@ -16,6 +18,7 @@ The dataset was sourced from the **FP20 IT Help Desk Analysis Challenge 8**. It 
 • **IT Agents:** 50 records with 6 fields. 
 
 🔗 [Link to dataset](https://fp20analytics.com/datasets/)
+
 
 
 ## Business Questions
@@ -44,6 +47,7 @@ The dataset was sourced from the **FP20 IT Help Desk Analysis Challenge 8**. It 
 • What steps can be taken to improve SLA compliance and reduce delays?
 
 • Which recurring issues should be prioritized for process or system improvements?
+
 
 
 ## Tools & Methodology
