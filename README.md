@@ -10,7 +10,7 @@ The IT Department faces challenges such as uneven ticket inflow, recurring reque
 
 
 
-# Data Source: 
+## Data Source: 
 The dataset was sourced from the **FP20 IT Help Desk Analysis Challenge 8**. It is provided in a workbook containing two sheets:
 
 • **Tickets:** 97,498 records with 10 fields.
@@ -51,6 +51,7 @@ The dataset was sourced from the **FP20 IT Help Desk Analysis Challenge 8**. It 
 
 
 ## Tools & Methodology
+
 ## Tools Used:
 • Power Query for data cleaning, transformation, and preparation.
 
@@ -61,4 +62,4 @@ The dataset was sourced from the **FP20 IT Help Desk Analysis Challenge 8**. It 
 • Data modeling in Power BI to optimize performance and maintain relational integrity.
 
 ## Methodology:
-• 
+• **Data Cleaning and Preparation**
